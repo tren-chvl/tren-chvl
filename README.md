@@ -40,13 +40,6 @@ Always learning. Always building.
 ---
 
 <div align="center">
-  <!-- Pac-Man GIF animé classique -->
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" alt="Pac-Man Animation" height="150" />
-</div>
-
----
-
-<div align="center">
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=tren-chvl&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
@@ -54,7 +47,13 @@ Always learning. Always building.
 ---
 
 <div align="center">
-  <!-- Capsule Render Header -->
+  <!-- Pac-Man interactive link -->
+  🎮 [Joue au vrai Pac-Man ici !](https://tren-chvl.github.io/pacman-game/)
+</div>
+
+---
+
+<div>
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
 
