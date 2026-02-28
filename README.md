@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Marc 👋
 
-<!--
-**tren-chvl/tren-chvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 C / C++ Developer  
+🔐 Interested in Cybersecurity & System Programming  
+🐧 Linux Enthusiast  
+🏋️ Sports & Discipline Mindset  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+Student at 42 Le Havre, focused on low-level programming and system development.  
+I enjoy working close to the system: memory management, process handling, threads and performance optimization.
+
+I am passionate about improving continuously and solving complex technical problems.
+
+---
+
+## 🛠 Technical Skills
+
+- C
+- C++
+- Shell
+- Linux
+- Git
+- Docker
+- Process management (fork, exec, pipes)
+- Threads & mutex
+- Memory management
+
+---
+
+## 📂 Featured Projects
+
+- Minishell
+- Pipex
+- Philosophers
+- Push_swap
+- Cub3D
+- Born2BeRoot
+- CPP Modules
+
+---
+
+Always learning. Always building.
