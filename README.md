@@ -1,4 +1,4 @@
-<h1 align="center"># Hi, I'm Marc 👋<br><br>💻 C / C++ Developer  <br>🔐 Interested in Cybersecurity & System Programming  <br>🐧 Linux Enthusiast  <br>🏋️ Sports & Discipline Mindset  <br><br>##  About Me<br><br>Student at 42 Le Havre, focused on low-level programming and system development.  <br>I enjoy working close to the system: memory management, process handling, threads and performance optimization.<br><br>I am passionate about improving continuously and solving complex technical problems.<br><br>Always learning. Always building.</h1>
+<h1 align="center"># Hi, I'm Marc 👋<br><br>💻 C / C++ Developer  <br>🔐 Interested in Cybersecurity & System Programming  <br>🐧 Linux Enthusiast  <br>Student at 42 Le Havre, focused on low-level programming and system development.  <br><br>Always learning. Always building.</h1>
 
 ###
 
