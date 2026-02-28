@@ -40,8 +40,8 @@ Always learning. Always building.
 ---
 
 <div align="center">
-  <!-- Pac-Man GIF animé ultra stylé -->
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Pac-Man Animation" height="150" />
+  <!-- Pac-Man GIF animé classique -->
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" alt="Pac-Man Animation" height="150" />
 </div>
 
 ---
