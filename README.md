@@ -47,8 +47,13 @@ Always learning. Always building.
 ---
 
 <div align="center">
-  <!-- Pac-Man interactive link -->
-  🎮 [Joue au vrai Pac-Man ici !](https://tren-chvl.github.io/pacman-game/)
+  <!-- Pac-Man GIF animé qui mange les commits -->
+  <img src="output/pacman-contribution-graph.gif" alt="Pac-Man Contribution Graph" height="200"/>
+</div>
+
+<div align="center">
+  <!-- Lien vers le vrai jeu Pac-Man interactif -->
+  🎮 [Joue au vrai Pac-Man interactif ici !](pacgam-game/index.html)
 </div>
 
 ---
