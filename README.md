@@ -9,10 +9,8 @@ Always learning. Always building.
 </p>
 
 ---
-
 <div align="center">
-  <!-- GIF stylé animé -->
-  <img src="https://media.giphy.com/media/3o6ozu5j5f9XiklWec/giphy.gif" alt="GIF stylé" height="200"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="terminal coding" height="220"/>
 </div>
 
 ---
