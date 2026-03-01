@@ -10,9 +10,8 @@ Always learning. Always building.
 
 ---
 <div align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="terminal coding" height="220"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="clean coding setup" height="220"/>
 </div>
-
 ---
 
 <div align="center">
