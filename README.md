@@ -5,7 +5,6 @@
 🔐 Interested in Cybersecurity & System Programming  <br>
 🐧 Linux Enthusiast  <br>
 Student at 42 Le Havre, focused on low-level programming and system development.  <br>
-Always learning. Always building.
 </p>
 
 ---
