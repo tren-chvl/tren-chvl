@@ -13,6 +13,7 @@ Student at 42 Le Havre, focused on low-level programming and system development.
 </div>
 
 
+---
 <div align="center">
   <!-- Tech Icons -->
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
