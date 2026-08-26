@@ -11,7 +11,7 @@ Student at 42 Le Havre, focused on low-level programming and system development.
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="clean coding setup" height="220"/>
 </div>
----
+
 
 <div align="center">
   <!-- Tech Icons -->
