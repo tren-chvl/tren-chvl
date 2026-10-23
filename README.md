@@ -1,9 +1,8 @@
-<h1 align="center">Hi, I'm Marc 👋</h1>
 
 <p align="center">
-💻 C / C++ Developer  <br>
-🔐 Interested in Cybersecurity & System Programming  <br>
-Student at 42 Le Havre, focused on low-level programming and system development.  <br>
+  🔄 Interoperability & RPA Alternant <br>
+  🔐 Interested in Cybersecurity & System Programming <br>
+  🎓 Student at 42 Le Havre, low-level programming and Cybersecurity.
 </p>
 
 ---
@@ -23,12 +22,19 @@ Student at 42 Le Havre, focused on low-level programming and system development.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo" />
 </div>
+
 ---
 <div align="center">
   <img src="https://github.com/tren-chvl/tren-chvl/blob/main/pacgam-game/index.svg" alt="Pac-Man contribution graph" />
