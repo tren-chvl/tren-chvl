@@ -29,6 +29,10 @@ Student at 42 Le Havre, focused on low-level programming and system development.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo" />
 </div>
+---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Thomasrbm/Thomasrbm/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" />
+</div>
 
 ---
 
