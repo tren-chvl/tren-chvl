@@ -31,7 +31,7 @@ Student at 42 Le Havre, focused on low-level programming and system development.
 </div>
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Thomasrbm/Thomasrbm/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" />
+  <img src="https://github.com/tren-chvl/tren-chvl/blob/main/pacgam-game/index.svg" alt="Pac-Man contribution graph" />
 </div>
 
 ---
